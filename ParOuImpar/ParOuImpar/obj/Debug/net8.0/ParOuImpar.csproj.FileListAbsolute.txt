@@ -1,0 +1,14 @@
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/bin/Debug/net8.0/ParOuImpar
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/bin/Debug/net8.0/ParOuImpar.deps.json
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/bin/Debug/net8.0/ParOuImpar.runtimeconfig.json
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/bin/Debug/net8.0/ParOuImpar.dll
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/bin/Debug/net8.0/ParOuImpar.pdb
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.AssemblyInfoInputs.cache
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.AssemblyInfo.cs
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.dll
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/refint/ParOuImpar.dll
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.pdb
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ParOuImpar.genruntimeconfig.cache
+/home/joaovictorsilva/RiderProjects/ParOuImpar/ParOuImpar/obj/Debug/net8.0/ref/ParOuImpar.dll

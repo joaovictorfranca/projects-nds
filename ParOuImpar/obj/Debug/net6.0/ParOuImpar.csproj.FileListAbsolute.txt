@@ -1,0 +1,12 @@
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/bin/Debug/net6.0/ParOuImpar.deps.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/bin/Debug/net6.0/ParOuImpar.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/bin/Debug/net6.0/ParOuImpar.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.csproj.AssemblyReference.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.AssemblyInfoInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.AssemblyInfo.cs
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/refint/ParOuImpar.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ParOuImpar.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/ParOuImpar/obj/Debug/net6.0/ref/ParOuImpar.dll

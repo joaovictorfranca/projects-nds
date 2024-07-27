@@ -1,0 +1,15 @@
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/bin/Debug/net6.0/TextEditor
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/refint/TextEditor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll

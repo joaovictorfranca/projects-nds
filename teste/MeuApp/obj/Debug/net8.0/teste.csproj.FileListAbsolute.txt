@@ -1,0 +1,14 @@
+/home/joaovictorsilva/RiderProjects/teste/teste/bin/Debug/net8.0/teste
+/home/joaovictorsilva/RiderProjects/teste/teste/bin/Debug/net8.0/teste.deps.json
+/home/joaovictorsilva/RiderProjects/teste/teste/bin/Debug/net8.0/teste.runtimeconfig.json
+/home/joaovictorsilva/RiderProjects/teste/teste/bin/Debug/net8.0/teste.dll
+/home/joaovictorsilva/RiderProjects/teste/teste/bin/Debug/net8.0/teste.pdb
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.AssemblyInfoInputs.cache
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.AssemblyInfo.cs
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.dll
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/refint/teste.dll
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.pdb
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
+/home/joaovictorsilva/RiderProjects/teste/teste/obj/Debug/net8.0/ref/teste.dll

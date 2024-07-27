@@ -1,0 +1,15 @@
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/bin/Debug/net6.0/MaiorMenor
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/bin/Debug/net6.0/MaiorMenor.deps.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/bin/Debug/net6.0/MaiorMenor.runtimeconfig.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/bin/Debug/net6.0/MaiorMenor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/bin/Debug/net6.0/MaiorMenor.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.csproj.AssemblyReference.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.AssemblyInfoInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.AssemblyInfo.cs
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/refint/MaiorMenor.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/MaiorMenor.genruntimeconfig.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/MaiorMenor/MaiorMenor/obj/Debug/net6.0/ref/MaiorMenor.dll

@@ -1,0 +1,15 @@
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/bin/Debug/net6.0/MeuApp
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/bin/Debug/net6.0/MeuApp.deps.json
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/bin/Debug/net6.0/MeuApp.runtimeconfig.json
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/bin/Debug/net6.0/MeuApp.dll
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/bin/Debug/net6.0/MeuApp.pdb
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.csproj.AssemblyReference.cache
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfoInputs.cache
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfo.cs
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.dll
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/refint/MeuApp.dll
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.pdb
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/MeuApp.genruntimeconfig.cache
+/home/joaovictorsilva/RiderProjects/Teste/MeuApp/obj/Debug/net6.0/ref/MeuApp.dll

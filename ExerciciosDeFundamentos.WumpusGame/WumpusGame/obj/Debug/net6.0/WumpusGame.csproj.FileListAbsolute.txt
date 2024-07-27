@@ -1,0 +1,30 @@
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/bin/Debug/net6.0/WumpusGame
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/bin/Debug/net6.0/WumpusGame.deps.json
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/bin/Debug/net6.0/WumpusGame.runtimeconfig.json
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/bin/Debug/net6.0/WumpusGame.dll
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/bin/Debug/net6.0/WumpusGame.pdb
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.AssemblyReference.cache
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfoInputs.cache
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.AssemblyInfo.cs
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.dll
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/refint/WumpusGame.dll
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.pdb
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/WumpusGame.genruntimeconfig.cache
+/home/joaovictorsilva/RiderProjects/ExerciciosDeFundamentos.WumpusGame/WumpusGame/obj/Debug/net6.0/ref/WumpusGame.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\bin\Debug\net6.0\WumpusGame.exe
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\bin\Debug\net6.0\WumpusGame.deps.json
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\bin\Debug\net6.0\WumpusGame.runtimeconfig.json
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\bin\Debug\net6.0\WumpusGame.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\bin\Debug\net6.0\WumpusGame.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\refint\WumpusGame.dll
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.pdb
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\WumpusGame.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Área de Trabalho\Repository\NDS\RiderProjects\ExerciciosDeFundamentos.WumpusGame\WumpusGame\obj\Debug\net6.0\ref\WumpusGame.dll

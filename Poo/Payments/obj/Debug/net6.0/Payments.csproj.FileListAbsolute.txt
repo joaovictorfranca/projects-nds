@@ -1,0 +1,15 @@
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/bin/Debug/net6.0/Payments
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/bin/Debug/net6.0/Payments.deps.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/bin/Debug/net6.0/Payments.runtimeconfig.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/bin/Debug/net6.0/Payments.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/bin/Debug/net6.0/Payments.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.csproj.AssemblyReference.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.AssemblyInfoInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.AssemblyInfo.cs
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/refint/Payments.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/Payments.genruntimeconfig.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Poo/Payments/obj/Debug/net6.0/ref/Payments.dll

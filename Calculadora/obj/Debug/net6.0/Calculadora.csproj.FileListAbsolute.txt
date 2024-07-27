@@ -1,0 +1,15 @@
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/bin/Debug/net6.0/Calculadora
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/joaovictorsilva/Área de Trabalho/NDS-Repository/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
